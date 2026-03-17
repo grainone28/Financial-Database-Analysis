@@ -5,7 +5,7 @@ L'obiettivo di questa analisi è predire l'esito di un prestito bancario (regola
 
 ## Struttura del Repository
 - `Progetto_Financial_Analysis.ipynb`: Notebook completo con EDA, query SQL e modelli ML.
-- `requirements.txt`: Elenco delle librerie Python necessarie per far girare il codice.
+- `requirements.txt`: Elenco delle librerie Python necessarie per il codice.
 
 ## Tecnologie Utilizzate
 - **Database:** SQLAlchemy per le query al DB Financial.
